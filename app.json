@@ -1,7 +1,7 @@
 {
-  "name": "IndianBot",
-  "description": "Userbot created by a IndianBhai and join https://t.me/IndianArMyGiveaway for any problems or support",
-  "logo": "https://telegra.ph/file/4e74dff582f78dc80b1d1.jpg",
+  "name": "Anonymous",
+  "description": "Userbot forked by Anonymous and join https://t.me/Error69talks for any problems or support",
+  "logo": ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/indianbhaiya/IndianBot/",
+  "repository": "https://github.com/Harshtech2019/IndianBot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
